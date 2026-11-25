@@ -1,0 +1,230 @@
+{
+  "_lisezmoi": "Identifiants de phrases figés : clé de la progression des apprenants et des fichiers audio. Ne pas éditer à la main : npm run check:wolof -- --update-ids (ajouter) ou --retire=<id> (abandonner définitivement).",
+  "phrases": {
+    "04-ana-yoon": {
+      "lesson": "04-transports",
+      "wolof": "Ana yoonu... ?"
+    },
+    "04-fo-jem": {
+      "lesson": "04-transports",
+      "wolof": "Fo jëm ?"
+    },
+    "04-jerejef-ba-beneen": {
+      "lesson": "04-transports",
+      "wolof": "Jërëjëf, ba beneen yoon."
+    },
+    "04-ma-ngi-dem": {
+      "lesson": "04-transports",
+      "wolof": "Maa ngi dem..."
+    },
+    "04-naata-la": {
+      "lesson": "04-transports",
+      "wolof": "Ñaata la ?"
+    },
+    "04-taxawal-fi": {
+      "lesson": "04-transports",
+      "wolof": "Taxawal fi."
+    },
+    "04-xaaral-tuuti": {
+      "lesson": "04-transports",
+      "wolof": "Xaaral tuuti."
+    },
+    "05-ana-waa-ker": {
+      "lesson": "05-famille-maison",
+      "wolof": "Ana waa kër gi ?"
+    },
+    "05-ba-suba": {
+      "lesson": "05-famille-maison",
+      "wolof": "Ba suba."
+    },
+    "05-begg-naa-dem": {
+      "lesson": "05-famille-maison",
+      "wolof": "Bëgg naa dem."
+    },
+    "05-duma-yagg": {
+      "lesson": "05-famille-maison",
+      "wolof": "Duma yàgg."
+    },
+    "05-mu-ngi-biir": {
+      "lesson": "05-famille-maison",
+      "wolof": "Mu ngi ci biir."
+    },
+    "05-new-naa": {
+      "lesson": "05-famille-maison",
+      "wolof": "Ñëw naa."
+    },
+    "05-toogal-ci-kanam": {
+      "lesson": "05-famille-maison",
+      "wolof": "Toogal ci kanam."
+    },
+    "06-begg-atoo": {
+      "lesson": "06-repas-boissons",
+      "wolof": "Bëggatoo ?"
+    },
+    "06-mar-naa": {
+      "lesson": "06-repas-boissons",
+      "wolof": "Mar naa."
+    },
+    "06-may-ma-ndox": {
+      "lesson": "06-repas-boissons",
+      "wolof": "May ma ndox."
+    },
+    "06-neex-na-lool": {
+      "lesson": "06-repas-boissons",
+      "wolof": "Neex na lool."
+    },
+    "06-suur-naa": {
+      "lesson": "06-repas-boissons",
+      "wolof": "Suur naa."
+    },
+    "06-xiif-naa": {
+      "lesson": "06-repas-boissons",
+      "wolof": "Xiif naa."
+    },
+    "06-yalla-na-sax": {
+      "lesson": "06-repas-boissons",
+      "wolof": "Yàlla na sax."
+    },
+    "07-amul-solo": {
+      "lesson": "07-temps-organisation",
+      "wolof": "Amul solo."
+    },
+    "07-ci-kanam": {
+      "lesson": "07-temps-organisation",
+      "wolof": "Ci kanam."
+    },
+    "07-leegi-mu-new": {
+      "lesson": "07-temps-organisation",
+      "wolof": "Leegi mu ñëw."
+    },
+    "07-pare-naa": {
+      "lesson": "07-temps-organisation",
+      "wolof": "Pare naa."
+    },
+    "07-suba-la": {
+      "lesson": "07-temps-organisation",
+      "wolof": "Suba la."
+    },
+    "07-tay-la": {
+      "lesson": "07-temps-organisation",
+      "wolof": "Tay la."
+    },
+    "07-xaral-ma-pare": {
+      "lesson": "07-temps-organisation",
+      "wolof": "Xaral ma pare."
+    },
+    "marche-01": {
+      "lesson": "02-au-marche",
+      "wolof": "Ñaata la ?"
+    },
+    "marche-02": {
+      "lesson": "02-au-marche",
+      "wolof": "Dafa seer."
+    },
+    "marche-03": {
+      "lesson": "02-au-marche",
+      "wolof": "Wàññi ma tuuti."
+    },
+    "marche-04": {
+      "lesson": "02-au-marche",
+      "wolof": "Bëgg naa ko."
+    },
+    "marche-05": {
+      "lesson": "02-au-marche",
+      "wolof": "Jox ma benn."
+    },
+    "marche-06": {
+      "lesson": "02-au-marche",
+      "wolof": "Dama bëgg kafe Tuubaa."
+    },
+    "marche-07": {
+      "lesson": "02-au-marche",
+      "wolof": "Amul solo."
+    },
+    "marche-08": {
+      "lesson": "02-au-marche",
+      "wolof": "Dinaa dellusi."
+    },
+    "presenter-01": {
+      "lesson": "03-se-presenter",
+      "wolof": "Naka nga tudd ?"
+    },
+    "presenter-02": {
+      "lesson": "03-se-presenter",
+      "wolof": "Maa ngi tudd Awa."
+    },
+    "presenter-03": {
+      "lesson": "03-se-presenter",
+      "wolof": "Fan nga dëkk ?"
+    },
+    "presenter-04": {
+      "lesson": "03-se-presenter",
+      "wolof": "Dakar laa dëkk."
+    },
+    "presenter-05": {
+      "lesson": "03-se-presenter",
+      "wolof": "Dégg nga wolof ?"
+    },
+    "presenter-06": {
+      "lesson": "03-se-presenter",
+      "wolof": "Tuuti rekk."
+    },
+    "presenter-07": {
+      "lesson": "03-se-presenter",
+      "wolof": "Ndax mën nga wax ndànk ?"
+    },
+    "presenter-08": {
+      "lesson": "03-se-presenter",
+      "wolof": "Waaw."
+    },
+    "presenter-09": {
+      "lesson": "03-se-presenter",
+      "wolof": "Déedéet."
+    },
+    "salutations-01": {
+      "lesson": "01-salutations",
+      "wolof": "Salaamaalekum."
+    },
+    "salutations-02": {
+      "lesson": "01-salutations",
+      "wolof": "Maalekum salaam."
+    },
+    "salutations-03": {
+      "lesson": "01-salutations",
+      "wolof": "Na nga def ?"
+    },
+    "salutations-04": {
+      "lesson": "01-salutations",
+      "wolof": "Maa ngi fi rekk."
+    },
+    "salutations-05": {
+      "lesson": "01-salutations",
+      "wolof": "Jàmm nga am ?"
+    },
+    "salutations-06": {
+      "lesson": "01-salutations",
+      "wolof": "Jàmm rekk."
+    },
+    "salutations-07": {
+      "lesson": "01-salutations",
+      "wolof": "Naka waa kër ga ?"
+    },
+    "salutations-08": {
+      "lesson": "01-salutations",
+      "wolof": "Ñu ngi fa."
+    },
+    "salutations-09": {
+      "lesson": "01-salutations",
+      "wolof": "Jërëjëf."
+    },
+    "salutations-10": {
+      "lesson": "01-salutations",
+      "wolof": "Ba suba."
+    },
+    "salutations-11": {
+      "lesson": "01-salutations",
+      "wolof": "Ba beneen yoon."
+    }
+  },
+  "retired": []
+}

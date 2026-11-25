@@ -1,0 +1,9 @@
+# Fins de ligne LF dans le dépôt, quel que soit le système
+* text=auto eol=lf
+
+# Fichiers audio : binaires
+*.mp3 binary
+*.m4a binary
+*.ogg binary
+*.wav binary
+*.webm binary
